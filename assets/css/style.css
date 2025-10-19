@@ -11,7 +11,7 @@
 }
 
 
-* {
+{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -51,7 +51,6 @@ header {
   color: white;
 }
 
-/* Navegação */
 nav ul {
   list-style: none;
   display: flex;
@@ -210,3 +209,4 @@ form button {
   cursor: pointer;
   border-radius: 4px;
 }
+
